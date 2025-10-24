@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.DS_Store
+
+# Envs / tooling
+.env
+.venv/
+venv/
+env/
+*.swp
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# App runtime data
+state/
+chroma_store/
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+
+# Logs
+*.log
+
+# Node (if any)
+node_modules/
+
+# Notebooks (if you ever add)
+.ipynb_checkpoints/

@@ -1,0 +1,11 @@
+streamlit>=1.33
+python-dotenv
+pandas
+numpy
+pymupdf
+markdown
+requests
+google-genai>=0.2.0
+pinecone
+ollama>=0.3.0
+chromadb>=0.5.5
