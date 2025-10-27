@@ -160,4 +160,4 @@ streamlit run streamlit_app.py
 
 ## 📜 License
 
-MIT © 2025 Your Name
+MIT © 2025 GaneshKnagal
